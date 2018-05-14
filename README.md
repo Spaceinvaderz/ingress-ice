@@ -22,8 +22,6 @@ See our [samples](https://github.com/nibogd/ingress-ice/wiki/Example-Records).
 
 [<img src="https://developers.google.com/+/images/branding/g+128.png" width="16"> +Ingress ICE](https://plus.google.com/u/0/115529923593338751190/posts)
 
-[<img src="https://g.twimg.com/Twitter_logo_blue.png" width="16"> @ingress_ice](https://twitter.com/ingress_ice)
-
 Download
 ========
 ### Stable
