@@ -1,3 +1,5 @@
+**Please, read [this blog post](https://plus.google.com/u/0/b/115529923593338751190/+IngressICE/posts/JAzNua2jwoY). Ingress-ice is being retired.**
+
 [ingress-ice](http://ingress.netlify.com/)
 ===========
 Automatic screenshooter for ingress intel map.
@@ -74,6 +76,3 @@ You can see the list [here](https://github.com/nibogd/ingress-ice/graphs/contrib
 
 #### Support
 If you like Ingress Ice, [support us at Bountysource](https://salt.bountysource.com/teams/ingress-ice)!
-
-<hr>
-ICE uses [PhantomJS](http://phantomjs.org/), it's binary is packed with the script.
